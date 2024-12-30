@@ -1,0 +1,14 @@
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\bin\Debug\net8.0\AVGSUMVECT.exe
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\bin\Debug\net8.0\AVGSUMVECT.deps.json
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\bin\Debug\net8.0\AVGSUMVECT.runtimeconfig.json
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\bin\Debug\net8.0\AVGSUMVECT.dll
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\bin\Debug\net8.0\AVGSUMVECT.pdb
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.AssemblyInfoInputs.cache
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.AssemblyInfo.cs
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.csproj.CoreCompileInputs.cache
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.dll
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\refint\AVGSUMVECT.dll
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.pdb
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\AVGSUMVECT.genruntimeconfig.cache
+C:\Users\heavy\OneDrive\Робочий стіл\абдукариму\AVGSUMVECT\AVGSUMVECT\obj\Debug\net8.0\ref\AVGSUMVECT.dll
